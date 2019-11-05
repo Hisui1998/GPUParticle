@@ -123,6 +123,7 @@
     <ClCompile Include="Descriptor.cpp" />
     <ClCompile Include="Device.cpp" />
     <ClCompile Include="GPUParticle.cpp" />
+    <ClCompile Include="Render.cpp" />
     <ClCompile Include="SwapChain.cpp" />
     <ClCompile Include="Window.cpp" />
   </ItemGroup>
@@ -131,6 +132,7 @@
     <ClInclude Include="d3dx12.h" />
     <ClInclude Include="Descriptor.h" />
     <ClInclude Include="Device.h" />
+    <ClInclude Include="Render.h" />
     <ClInclude Include="SwapChain.h" />
     <ClInclude Include="Window.h" />
   </ItemGroup>
